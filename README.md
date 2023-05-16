@@ -13,3 +13,6 @@
 **Conclusion:** The statistical study of residential segregation trend over the decades and the machine learning clustering analysis provides comprehensive insights and awareness about the extent of ethnic segregation and its impact on health outcomes to both the residents and the policy makers to take steps in the right direction for the betterment of the society.
 
 **Metadata:**
+
+<img width="300" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/553bd96a-ef20-4221-bc43-af4704473a8e">
+
