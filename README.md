@@ -1,13 +1,13 @@
 # Master thesis 2023 - Floriann Louis
 
-<img width="500" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/2aedf0ff-7ad6-4981-b903-f7223c520203" class="center">
-
 **Metadata:**
 The repository consist of,
 1. Dataset (Bradford shapefile, census data, health data, processed data)
 2. Executed output codes (rendered python files)
 3. Tableau (Visualization file)
 4. Python_codes ( 6 files containing python codes)
+
+<img width="500" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/2aedf0ff-7ad6-4981-b903-f7223c520203" class="center">
 
 **Abstract**
 
