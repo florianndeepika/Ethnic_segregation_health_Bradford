@@ -1,5 +1,7 @@
 # Study of ethnic residential segregation and health outcomes with clustering analysis in Bradford, UK
 
+https://thumbs.dreamstime.com/b/bradford-map-boroughs-modern-round-shapes-bradford-map-boroughs-modern-round-shapes-illustration-115219660.jpg![image](https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/b2a77b9f-c8c1-46ef-b304-584e31394f42)
+
 **Background:** Ethnic segregation is predominantly increasing around the world. The proportion of a particular ethnic group living in an area can have an impact on various social economic factors, especially in health outcomes. The study focuses on the city of Bradford in the United Kingdom, which has a high level of ethnic diversity and segregation, and it is being associated with society's health outcomes, including general health and disability.
 
   Ethnic minority groups often face higher levels of segregation than the majority population, which may contribute to health disparities. This study will focus on one of the measures of segregation - Index of Dissimilarity to identify how Bradford stands outs from the other cities in the United Kingdom in terms of ethnic segregation and how the ethnic segregation has evolved for the past 3 decades in Bradford. The study also extends to explore and analyze health outcomes with respect to each ethnic groups.
