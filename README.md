@@ -1,6 +1,6 @@
 # Study of ethnic residential segregation and health outcomes with clustering analysis in Bradford, UK
 
-<center> <img width="400" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/2aedf0ff-7ad6-4981-b903-f7223c520203"></center>
+<center><img width="400" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/2aedf0ff-7ad6-4981-b903-f7223c520203"></center>
 
 **Background:** Ethnic segregation is predominantly increasing around the world. The proportion of a particular ethnic group living in an area can have an impact on various social economic factors, especially in health outcomes. The study focuses on the city of Bradford in the United Kingdom, which has a high level of ethnic diversity and segregation, and it is being associated with society's health outcomes, including general health and disability.
 
