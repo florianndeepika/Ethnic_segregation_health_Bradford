@@ -3,7 +3,7 @@
 **Metadata:**
 The repository consist of,
 1. Dataset (Bradford shapefile, census data, health data, processed data)
-2. Executed output codes (rendered python files)
+2. Executed output codes (rendered python html files)
 3. Tableau (Visualization file)
 4. Python_codes ( 6 files containing python codes)
 
