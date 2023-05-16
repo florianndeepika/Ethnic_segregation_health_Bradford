@@ -1,4 +1,4 @@
-# Study of ethnic residential segregation and health outcomes with clustering analysis in Bradford, UK
+# Master thesis 2023 - Floriann Louis
 
 <img width="500" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/2aedf0ff-7ad6-4981-b903-f7223c520203" class="center">
 
