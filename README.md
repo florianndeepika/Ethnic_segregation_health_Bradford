@@ -14,5 +14,5 @@
 
 **Metadata:**
 
-<img width="300" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/553bd96a-ef20-4221-bc43-af4704473a8e">
+<img width="957" alt="image" src="https://github.com/florianndeepika/Ethnic_segregation_health_Bradford/assets/63796480/3da1e9f6-9686-4d4f-b35b-754d1a82f2e4">
 
